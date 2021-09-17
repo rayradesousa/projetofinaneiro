@@ -1,0 +1,125 @@
+.navbar{
+    background-color: #fa9600;
+  
+}
+.nav-item .nav-link{
+    font-size: 25px;
+    color:white;
+   
+}
+
+.navbar-toggler{
+    background-color: #008E97;
+}
+
+.botao1{
+    font-size: 20px;
+    background-color:#008E97;
+    color: white;
+  
+}
+
+#home{
+    background-color:#008E97;
+    color:rgb(12, 12, 12);
+}
+
+html{
+    overflow-x: hidden;
+}
+ 
+h5{
+    font-size:25px;
+color:rgb(14, 1, 1);
+}
+
+p{
+    font-size:20px;
+    margin-bottom: -30px;
+}
+.image{ 
+ margin-top:-60px; 
+margin-left: -100px;
+}
+h1{ 
+    margin-top: 95px;
+}
+
+input, button{ 
+    margin-top: 60px;
+}
+button{
+    background-color: #fa9600;
+    color:white;
+    
+}
+
+.icon{
+    background-color:#008E97;
+    margin-bottom: 10px;
+    color:white;
+}
+
+/* saiba mais */
+.caixa{
+ 
+    padding:60px 0px;
+    border-bottom: 1px solid #0f020232;
+ 
+}
+
+
+
+/*lista*/
+
+.titulo2{
+    text-align: center;
+
+}
+
+.list-group{
+    padding:10px;
+    font-size:20px;
+}
+
+.traço{
+    text-decoration: line-through;
+    background-color:rgba(128, 128, 128, 0.479)
+}
+
+.valor{
+    font-size:40px;
+}
+
+.plano{
+background-color: #fa9600;
+font-size:25px;
+}
+
+
+/* Recursos */
+
+
+
+
+footer .paragrafofooter .linkfooter{ 
+margin-right:5px;
+color:white;
+margin-left: 50px;
+
+
+}
+#icon1{
+    margin-right:10px;
+}
+
+.caixafooter{
+    background-color: #fa9600;
+  height:140px;
+    margin-top: -25px;
+    
+}
+.containermae{
+    background-color:#13efff60 ;
+ color:black;
+}
