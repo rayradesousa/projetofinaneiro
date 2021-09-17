@@ -2,14 +2,14 @@
 
 Um site responsivo para quem quer, organizar suas contas mensalmente. É apenas um site fictício, que foi feito apenas para eu colocar no portifólio e mostrar meus conheceimentos.
 
-<p aligns="center"> <img src="gif/Animação1.gif" width="310" height="100">  <img src="gif/Animação2.gif" width="100" height="100"> <img src="gif/Animação3.gif" width="100" height="100">  <img src="gif/Animação4.gif" width="100" height="100"> <img src="gif/Animação5.gif" width="100" height="100"> </p>
+<p aligns="center"> <img src="gif/Animação1.gif" width="310" height="200">  <img src="gif/Animação2.gif" width="150" height="200"> <img src="gif/Animação3.gif" width="150" height="200">  <img src="gif/Animação4.gif" width="150" height="200"> <img src="gif/Animação5.gif" width="150" height="200"> </p>
 
 ## Funcionalidades
 
 🗸 Tema mantido na página inteira <br>
 🗸 Botão fictício de cadastro <br>
 🗸 Menu que leva aos tópicos de cada página<br>
-🗸Site responsivo<br>
+🗸 Site responsivo<br>
 
 
 ## Linguagens utilizadas no projeto
