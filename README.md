@@ -1,8 +1,8 @@
 # Projeto Financeiro para portifólio
 
-Um site responsivo para quem quer, organizar suas contas mensalmente. É apenas um site fictício, que foi feito apenas para eu colocar no portifólio e mostrar meus conheceimentos.
+Um site responsivo para quem quer, organizar suas contas mensalmente. É apenas um site fictício, que foi feito para eu colocar no portifólio e mostrar meus conheceimentos.
 
-<p aligns="center"> <img src="gif/Animação1.gif" width="310" height="200">  <img src="gif/Animação2.gif" width="150" height="200"> <img src="gif/Animação3.gif" width="150" height="200">  <img src="gif/Animação4.gif" width="150" height="200"> <img src="gif/Animação5.gif" width="150" height="200"> </p>
+<p aligns="center"> <img src="gif/Animação1.gif" width="893" height="300">  <img src="gif/Animação2.gif" width="220" height="300"> <img src="gif/Animação3.gif" width="220" height="300">  <img src="gif/Animação4.gif" width="220" height="300"> <img src="gif/Animação5.gif" width="220" height="300"> </p>
 
 ## Funcionalidades
 
